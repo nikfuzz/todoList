@@ -2,11 +2,11 @@
 
 A simple todo list which enables the following actions
 
-# Add item
+- Add item
 
-# Mark item as complete
+- Mark item as complete
 
-# Delete Item
+- Delete Item
 
 The project also supports local storage.
 
